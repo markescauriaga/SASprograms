@@ -1,1 +1,5 @@
-<ROOT/>
+<?xml version="1.0" encoding="UTF-8"?><ROOT>
+<ArchInfo Date="1612866521491" Description="Access Amazon S3 Data" Name="Access Amazon S3 Data" PackageName="Access Amazon S3 Data.spk" UserID="sasadm@saspw" Version="e32f596">
+<ContainObj>SBIP://METASERVER/Data Governance/Jobs/Access Amazon S3 data(Job)</ContainObj>
+</ArchInfo>
+</ROOT>
